@@ -2,7 +2,7 @@
   "name": "gameify",
   "version": "1.0.0",
   "description": "GameIFY Web",
-  "default": "index.js",
+  "default": "index.html",
   "scripts": {
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
